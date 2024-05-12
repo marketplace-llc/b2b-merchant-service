@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: b2b-merchant-service
+
+server:
+  port: 7001
