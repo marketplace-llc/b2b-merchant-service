@@ -1,4 +1,4 @@
-# B2B Merchant Service Api
+# B2B Merchant Service
 
 ## About
 
@@ -48,7 +48,7 @@ docker-compose -f b2b-merchant-service-infrastructure/docker-compose.yml up
 You can stop the containers using the following command:
 
 ```bash
-docker-compose -f b2b-merchant-service-api-infrastructure/docker-compose.yml down
+docker-compose -f b2b-merchant-service-infrastructure/docker-compose.yml down
 ```
 
 You can stop the containers using the following command:
